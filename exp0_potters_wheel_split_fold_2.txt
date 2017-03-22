@@ -1,0 +1,1 @@
+{"InputTable": [["Latimer", "George, Anna"], ["Smith", "Joan"]], "NumSamples": 2, "TestingTable": [["Smith", "Joan"], ["Stark", "Eddard, Catylen"], ["Lanister", "Jaime, Cersei"], ["Baratheon", "Robert, Renly"]], "TestName": "potters_wheel_split_fold", "OutputTable": [["Latimer", "George"], ["Latimer", "Anna"], ["Smith", "Joan"]]}

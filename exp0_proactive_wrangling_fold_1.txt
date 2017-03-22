@@ -1,0 +1,1 @@
+{"InputTable": [["", "Boys", "Girls"], ["Australia", "1", "2"]], "NumSamples": 1, "TestingTable": [["", "Boys", "Girls"], ["Austria", "3", "4"], ["Belgium", "5", "6"], ["China", "7", "8"], ["France", "1", "1"], ["German", "2", "1"]], "TestName": "proactive_wrangling_fold", "OutputTable": [["Australia", "Boys", "1"], ["Australia", "Girls", "2"]]}

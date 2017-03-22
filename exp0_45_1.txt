@@ -1,0 +1,1 @@
+{"InputTable": [["", "House 1", "House 2", "House 3"], ["Bob", "1", "", "1"]], "NumSamples": 1, "TestingTable": [["", "House 1", "House 2", "House 3"], ["Josh", "1", "1", "1"], ["Sarah", "1", "1", "1"], ["Tom", "1", "", ""], ["Anne", "1", "1", ""], ["Harry", "", "1", "1"]], "TestName": "45", "OutputTable": [["Bob", "House 1", "1"], ["Bob", "House 3", "1"]]}
