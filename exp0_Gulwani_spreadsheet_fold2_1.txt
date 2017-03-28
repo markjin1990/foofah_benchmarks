@@ -1,1 +1,0 @@
-{"InputTable": [["Toyota", "White", "2000"]], "NumSamples": 1, "TestingTable": [["Nissan", "Red", "4000"], ["Honda", "Black", "1000"], ["Audi", "Silver", "5000"], ["BMW", "Yellow", "8000"], ["Land Rover", "Black", "10000"]], "TestName": "4", "OutputTable": [["Toyota", "White"], ["Toyota", "2000"]]}
