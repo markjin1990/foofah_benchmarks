@@ -1,1 +1,1 @@
-{"InputTable": [["Alice"], ["Bob"], ["Carol"], ["Dan"], ["James"]], "NumSamples": 5, "TestingTable": [["Bob"], ["Dan"], ["Michael"]], "TestName": "33", "OutputTable": [["Alice", "Bob", "Carol", "Dan", "James"]]}
+{"InputTable": [["Alice"], ["Bob"], ["Carol"], ["Dan"], ["James"]], "NumSamples": 5, "TestName": "33", "TestingTable": [["Bob"], ["Dan"], ["Michael"]], "OutputTable": [["Alice", "Bob", "Carol", "Dan", "James"]], "TestAnswer": [["Bob", "Dan", "Michael"]]}
